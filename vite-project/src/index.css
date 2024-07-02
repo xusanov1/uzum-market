@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(https://i.pinimg.com/736x/28/80/81/28808171a92da9f4ba7beb4c6677fc5e.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+    width: 1250px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}

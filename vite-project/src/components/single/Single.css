@@ -1,0 +1,31 @@
+/* src/styles/ProductDetails.css */
+.details-container {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .details-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .details-image {
+    width: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+  }
+  
+  .details-description {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #666;
+  }
+  
+  .details-price {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #000;
+  }
+  

@@ -1,0 +1,62 @@
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin: 1rem;
+  padding: 1rem;
+  width: 350px;
+  text-align: left;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  border-top: 5px solid #7001FF;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 10px 20px 40px 12px rgba(116, 67, 230, 0.2);
+}
+
+.product-image {
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 26px;
+  font-weight: bold;
+  margin: 0.5rem 0;
+  color: #7001FF;
+}
+
+.card-description {
+  font-size: 1rem;
+  color: #6666668d;
+}
+
+.card-price {
+  font-size: 30px;
+  font-weight: bold;
+  color: #000;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.like-button {
+    background-color: transparent;
+  color: #7001FF;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+
+
+

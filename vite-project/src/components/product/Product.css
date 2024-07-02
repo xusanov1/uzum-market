@@ -1,0 +1,20 @@
+select {
+     margin-top: 150px;
+     margin-left: -1000px;
+     margin-bottom: 50px;
+    font-size: 25px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #7001FF;
+    font-weight: 900;
+    cursor: pointer;
+    
+}
+
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
+}
